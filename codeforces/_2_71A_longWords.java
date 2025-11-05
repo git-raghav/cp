@@ -14,3 +14,4 @@ class _2_71A_longWords {
         System.out.print(sb);
     }
 }
+//brute force

@@ -19,3 +19,5 @@ public class _6_263A_beautifulmatrix {
         System.out.println(Math.abs(3 - row) + Math.abs(3 - col)); //manhattan dist |x1-x2 + y1-y2|
     }
 }
+//we need to find the position of 1 in the matrix so no need to traverse the whole matrix
+//as soon found 1 break the loop and calculate the manhattan distance from center

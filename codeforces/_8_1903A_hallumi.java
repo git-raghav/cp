@@ -31,3 +31,5 @@ public class _8_1903A_hallumi {
         System.out.println(sb.toString());
     }
 }
+//if array is sorted return yes or if k is greater than 1 return yes
+//because with atleat 2 elements we can sort any array(bubble sort)

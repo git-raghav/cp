@@ -20,3 +20,4 @@ public class _7_151A_softdrink {
         System.out.println(totalToasts / n);
     }
 }
+//brute force, implementation

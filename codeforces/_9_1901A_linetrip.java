@@ -28,3 +28,5 @@ public class _9_1901A_linetrip {
         System.out.println(sb.toString());
     }
 }
+//max dist that needs to be travelled without any station is the min volume of the tank req
+//it can be on return trip also(last station->dest-> back to last station) so thats why *2

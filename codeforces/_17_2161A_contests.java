@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class _19_2161A_contests {
+public class _17_2161A_contests {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
@@ -31,3 +31,4 @@ public class _19_2161A_contests {
         System.out.println(sb.toString());
     }
 }
+//always reduce the rating so we can attend maximum no. of contests

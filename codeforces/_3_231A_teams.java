@@ -15,3 +15,4 @@ public class _3_231A_teams {
         System.out.println(count);
     }
 }
+//brute force

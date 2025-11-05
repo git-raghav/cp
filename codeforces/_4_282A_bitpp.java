@@ -15,3 +15,4 @@ public class _4_282A_bitpp {
         System.out.println(x);
     }
 }
+//every instruction is on a seperate line so it doesnt matter if ++ is postfix or prefix

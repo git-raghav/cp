@@ -25,3 +25,5 @@ public class _5_514A_chewbacca {
         System.out.println(sb.toString());
     }
 }
+//if digit is >=5 then only 9-digit will give a no. smaller then the original digit
+//brute force

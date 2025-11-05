@@ -27,3 +27,4 @@ public class _15_2167B_yourname {
         System.out.println(sb.toString());
     }
 }
+//anagram type question, sort both string if equal then we can make one from another

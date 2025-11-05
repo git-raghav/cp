@@ -19,3 +19,4 @@ public class _12_1896A_jagswap {
         System.out.println(sb.toString());
     }
 }
+//if smallest no. i.e 1 is at 0th index then we can sort it otherewise we cannot because we cannot change 0th index element acc. to the question

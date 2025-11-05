@@ -32,3 +32,5 @@ public class _10_1900A_coverwater {
         System.out.println(sb.toString());
     }
 }
+//if at any point there is 3 empty cells then all can be filled by just 2 moves
+//else count empty holes

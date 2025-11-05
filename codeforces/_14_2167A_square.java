@@ -23,3 +23,4 @@ public class _14_2167A_square {
         System.out.println(sb.toString());
     }
 }
+//simple check all sides are equal or not

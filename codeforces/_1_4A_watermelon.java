@@ -10,3 +10,4 @@ class _1_4A_watermelon{
         }
     }
 }
+//if no. is even then only it can be divided in to 2 even no.s

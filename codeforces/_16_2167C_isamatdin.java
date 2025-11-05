@@ -30,3 +30,4 @@ public class _16_2167C_isamatdin {
         System.out.println(sb.toString());
     }
 }
+//if contains both even and odd no.then we can sort the array so return the sorted array else return the original array
